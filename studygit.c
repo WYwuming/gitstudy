@@ -7,4 +7,6 @@ void main(void)
     //测试注释
     printf("测试冲突\n");
     //在develop分支，添加其他注释
+
+    //测试git stash 操作
 }
